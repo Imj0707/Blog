@@ -1,6 +1,8 @@
 🌐 HTTP 프로토콜: 웹 기반 애플리케이션 간 데이터 송수신을 위한 응용 계층 프로토콜
-     - TCP/IP 기반임
-     - HyperText Transfer Protocol
+     
+- TCP/IP 기반임
+     
+- HyperText Transfer Protocol
 
 <img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP4.png" width = 400>
 
