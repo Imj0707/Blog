@@ -2,6 +2,8 @@
      - TCP/IP 기반임
      - HyperText Transfer Protocol
 
+<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP4.png" width = 400>
+
 🤝 연결 방식: 요청-응답 주기 후에 컴퓨터 간 연결 종료, 응답 시 다시 연결되고 닫힘
 
 📦 데이터 전송: 이미지, 비디오, 음악, 문서 등 다양한 데이터 전송 가능
@@ -12,7 +14,7 @@
 
 📄 HTTP 메시지: 시작 라인, 헤더, 바디로 구성, 요청과 응답 메시지에 차이가 있음
 
-<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP1.png" width=500>
+<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP1.png" width=400>
 
 📡 요청 방식: 메서드(GET, POST 등), URI(자원 식별자), HTTP 버전으로 구성
 ex) Request HTTP Message
@@ -35,4 +37,4 @@ ex) Response HTTP message
 
 ex code ) HTTP/1.0 200:OK
 
-<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP3.png" width=500>
+<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP3.png" width=300>
