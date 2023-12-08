@@ -1,5 +1,6 @@
 🌐 HTTP 프로토콜: 웹 기반 애플리케이션 간 데이터 송수신을 위한 응용 계층 프로토콜
      - TCP/IP 기반임
+     - HyperText Transfer Protocol
 
 🤝 연결 방식: 요청-응답 주기 후에 컴퓨터 간 연결 종료, 응답 시 다시 연결되고 닫힘
 
@@ -11,12 +12,12 @@
 
 📄 HTTP 메시지: 시작 라인, 헤더, 바디로 구성, 요청과 응답 메시지에 차이가 있음
 
-<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP1.png">
+<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP1.png" width=500>
 
 📡 요청 방식: 메서드(GET, POST 등), URI(자원 식별자), HTTP 버전으로 구성
 ex) Request HTTP Message
 
-<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP2.png">
+<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP2.png" width=500>
 
 형식 : Method path/to/file.ext http/version
 
@@ -34,4 +35,4 @@ ex) Response HTTP message
 
 ex code ) HTTP/1.0 200:OK
 
-<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP3.png">
+<img src="https://github.com/Imj0707/Blog/blob/main/Src/HTTP3.png" width=500>
